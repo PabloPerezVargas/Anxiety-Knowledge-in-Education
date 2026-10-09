@@ -25,6 +25,9 @@ test new items, distractors, or forms.
 
 - Review the historical scoring and workshop-version questions with the
   workshop developer, especially for Anxiety across cohorts.
+- Use the [conceptual framework](docs/conceptual_framework.md) and
+  [evidence-to-design synthesis](docs/evidence_to_instrument_design.md) to
+  carry the historical findings into Track B questions.
 - Decide which aggregate analyses and outputs belong in the final compendium.
 - Keep all pre/post findings framed as immediate observed change, not an
   isolated causal workshop effect.

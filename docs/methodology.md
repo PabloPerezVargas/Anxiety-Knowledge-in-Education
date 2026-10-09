@@ -38,7 +38,11 @@ POST dimensional exploration used Spearman item relationships. It is
 exploratory: it does not validate a single latent scale, and a descriptive
 total should not be mistaken for proof of unidimensionality. Anxiety item
 comparability across cohorts remains uncertain; Decision-making and Risk are
-also distinct instruments, not comparable item scales.
+also distinct instruments, not comparable item scales. The
+[conceptual framework](conceptual_framework.md) distinguishes immediate
+knowledge from later recognition, application, and behaviour; the
+[evidence-to-design synthesis](evidence_to_instrument_design.md) connects
+Track A diagnostics to future measurement questions.
 
 The repeated same-item, immediate post-test design means PRE/POST change is
 observed change, not an isolated causal workshop effect. See

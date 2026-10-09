@@ -29,7 +29,9 @@ distractors, conduct structured content review, and pilot the items. Diagnose
 weak historical performance before changing the blueprint: it may reflect
 baseline knowledge, delivery, scoring or item design as well as content.
 Historical open responses may inform plausible distractors, but misconception
-coding has not been done.
+coding has not been done. See the [workshop content framework](../docs/workshop_content_framework.md)
+and [evidence-to-design synthesis](../docs/evidence_to_instrument_design.md)
+for how the historical findings can inform Track B without dictating item retention.
 
 Multiple choice is proposed to standardise scoring and make item-level
 patterns easier to examine. It measures recognition rather than free recall
