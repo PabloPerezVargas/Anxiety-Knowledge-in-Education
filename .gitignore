@@ -1,0 +1,83 @@
+# ============================================================
+# 1. RAW PARTICIPANT-LEVEL DATA - NEVER COMMIT
+# ============================================================
+# Row-level records of individual participants. They combine
+# directly identifying attributes (centre, class, age, sex) and
+# must remain on local storage only.
+Datos totales 20 sept 2026.csv
+Cuestionario Brais pre-post.csv
+totalesBrais.csv
+descriptivosBrais.csv
+
+# Belt-and-braces guards for any future raw-data location.
+data/raw/
+data/private/
+*raw*.csv
+*.pbix
+
+# ============================================================
+# 2. POWER BI MATERIAL - NEVER COMMIT
+# ============================================================
+# A .pbix file embeds its full data model, so publishing one
+# would also publish the underlying participant records.
+Brais TFM.pbix
+
+# ============================================================
+# 3. R SESSION AND PROJECT STATE
+# ============================================================
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# ============================================================
+# 4. OPERATING SYSTEM / SYSTEM ARTIFACTS
+# ============================================================
+Microsoft.Services.Store.winmd
+Thumbs.db
+.DS_Store
+
+# ============================================================
+# 5. EDITOR AND INTERMEDIATE ARTIFACTS
+# ============================================================
+*~
+*.bak
+*.tmp
+
+# Historical/private analysis and local software artifacts
+/legacy/
+/Script brais.R
+/Script brais fumada.R
+/ChatGPT Installer.exe
+/Rplots.pdf
+/*.png
+/*.jpeg
+/*.jpg
+/*.pdf
+
+# Public-checkpoint table allow-list
+!tables/
+tables/*
+!tables/prepost_change_by_workshop.csv
+!tables/prepost_change_by_year.csv
+!tables/perceived_change_by_workshop.csv
+!tables/change_correlations.csv
+!tables/content_learning_map.csv
+!tables/content_change_by_year.csv
+!tables/reliability_by_workshop.csv
+!tables/item_rest_diagnostics.csv
+!tables/anxiety_item_comparability_by_year.csv
+!tables/dimensionality_diagnostics.csv
+!tables/efa_loadings.csv
+
+# Public-checkpoint figure allow-list
+!figures/
+figures/*
+!figures/prepost_change_by_workshop.png
+!figures/change_distribution_by_workshop.png
+!figures/perceived_prepost_distributions.png
+!figures/content_learning_map.png
+!figures/content_change_by_year.png
+!figures/item_rest_correlations.png
+!figures/scree_parallel_analysis.png
+!figures/efa_loadings.png

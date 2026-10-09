@@ -1,0 +1,10 @@
+workshop,relationship,n,pearson_r,spearman_rho
+Ansiedad,Baseline objective vs objective change,531,0.07073897547919378,0.11333618475701124
+Ansiedad,PRE objective vs POST objective,531,0.33996311611750274,0.3462632589189484
+Ansiedad,Objective change vs perceived change,531,0.5317594376940972,0.5149030317079641
+Decisiones,Baseline objective vs objective change,411,0.1316670284005833,0.17692296543319347
+Decisiones,PRE objective vs POST objective,411,0.444699072535947,0.47224391827210316
+Decisiones,Objective change vs perceived change,411,0.44478143783761154,0.477739251608456
+Riesgo,Baseline objective vs objective change,148,0.11196286121095772,0.16477890160574885
+Riesgo,PRE objective vs POST objective,148,0.37689267204038296,0.4775630747380926
+Riesgo,Objective change vs perceived change,148,0.53725517906545,0.6282539330551712
