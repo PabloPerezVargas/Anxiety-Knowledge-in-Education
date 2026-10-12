@@ -1,7 +1,5 @@
 # Anxiety Knowledge in Education
 
-## Why this programme exists
-
 This project examines psychological knowledge after psychoeducational workshops in educational settings in Spain, mainly in Galicia. The workshops introduce concepts relevant to everyday life.
 
 The Anxiety workshop explores the links between situations, emotional and physical activation, thoughts, impulses, and behaviour. Participants learn concepts for understanding triggers and automatic responses, reflecting on their own thinking, describing difficulties, seeking support, and exploring coping and regulation strategies. The workshops aim to provide a foundation for developing practical skills.
